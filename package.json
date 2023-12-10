@@ -1,0 +1,17 @@
+{
+  "name": "tradecrypto",
+  "version": "1.0.0",
+  "description": "system to monitor and strategize my crypto trading",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
